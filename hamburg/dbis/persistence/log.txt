@@ -1,0 +1,57 @@
+14	15	EOT
+1	15	25	Sylvester Shyster
+1	16	5	Magica De Spell
+2	15	31	Scrooge McDuck
+3	15	26	Madeline Mouse
+4	16	13	Scrooge McDuck
+5	15	20	Princess Oona
+6	15	23	Goofy
+7	16	1	Granny Beagle
+8	15	23	Gloria
+9	15	26	Oswald the Lucky Rabbit
+10	16	5	Huey, Dewey, and Louie
+11	15	31	Humphrey Gokart
+12	16	EOT
+13	15	EOT
+1	14	23	Pete
+1	15	5	Magica De Spell
+2	14	22	Felicity Fieldmouse
+3	15	13	Scrooge McDuck
+4	14	35	Evronians
+5	15	1	Granny Beagle
+6	14	31	Portis
+7	14	32	Roberta
+8	15	5	Huey, Dewey, and Louie
+9	14	26	The Rhyming Man
+10	14	35	Melinda Mouse
+11	15	EOT
+12	14	24	Pluto
+13	14	EOT
+1	14	21	Katie Mallard
+2	15	5	Magica De Spell
+3	14	31	Clarabelle Cow
+4	14	28	Charlie Doublejoke
+5	15	13	Scrooge McDuck
+6	14	34	Marshal Mouse and Matilda Mouse
+7	14	26	Humphrey Gokart
+8	15	1	Granny Beagle
+9	14	24	Penny Beagle
+10	14	35	Marcus Mouse
+11	15	5	Huey, Dewey, and Louie
+12	14	32	John D. Rockerduck
+13	14	EOT
+14	15	EOT
+2	16	5	Magica De Spell
+1	15	31	Great Grandpappy Beagle
+3	15	23	Rockhead Rooster
+4	16	13	Scrooge McDuck
+5	15	32	Gloria
+6	15	21	Professor Nefarious
+7	16	1	Granny Beagle
+8	15	33	Gloria
+9	16	5	Huey, Dewey, and Louie
+10	15	36	Beagle Boys
+11	15	24	Rockhead Rooster
+12	16	EOT
+13	15	25	Grand Mogul
+14	15	EOT
